@@ -16,7 +16,7 @@ const HomeCards = () => {
                         Browse Jobs
                     </a>
                 </Cards>
-                <Cards>
+                <Cards bg='bg-indigo-100'>
                     <h2 className='text-2xl font-bold'>Employers</h2>
                     <p className='mt-2 mb-4'>
                         List your job to find the perfect developer for the role
