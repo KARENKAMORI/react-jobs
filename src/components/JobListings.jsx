@@ -11,8 +11,13 @@ const JobListings = () => {
                 <div className='bg-white rounded-xl shadow-md relative'>
                     <div className='p-4'>
                         <div className='mb-6'>
-                            
+                            <div className='text-gray-600 my-2'>Full-Time</div>
+                            <h3 className='text-xl font-bold'>Senior React Developer</h3>
                         </div>
+                        <div>
+                            We are seeking a talented frontend developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS and Javascript...
+                        </div>
+                        <h3>$70 - $80 / Year</h3>
                     </div>
                 </div>
             </div>
